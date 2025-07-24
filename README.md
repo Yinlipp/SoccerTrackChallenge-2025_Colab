@@ -18,7 +18,7 @@ The Dataset for this challenge are SoccerTrack-v2 datasets.
 ---
 
 ## How to Use 
-[stc_baseline_no_finetune.ipynb](https://colab.research.google.com/github/Yinlipp/SoccerTrackChallenge-2025_Colab/blob/main/stc_baseline_no_finetune.ipynb) is a baseline Google Colab code for the SoccerTrack Challenge 2025, without fine-tuning.
+[STC-2025 Baseline Guide.ipynb] [https://github.com/Yinlipp/SoccerTrackChallenge-2025_Colab/blob/main/STC-2025%20Baseline%20Guide.ipynb] is a baseline Google Colab code for the SoccerTrack Challenge 2025, without fine-tuning.
 
 The code is divided into two parts: 
 (Participants can ignore the second part, only the MOT-format .txt tracking results from the first part need to be submitted.)
